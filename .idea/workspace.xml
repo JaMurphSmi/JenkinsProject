@@ -55,8 +55,8 @@
       <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="187">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -618,12 +618,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1513965195214" expanded="true" signature="59:41034" ph="..." />
-            <marker date="1513965195214" expanded="true" signature="98:192" ph="..." />
-            <marker date="1513965195214" expanded="true" signature="40960:40977" ph="..." />
-            <marker date="1513965195214" expanded="true" signature="40960:40995" ph="..." />
-            <marker date="1513965195214" expanded="true" signature="40960:41008" ph="..." />
-            <marker date="1513965195214" expanded="true" signature="40960:41023" ph="..." />
+            <marker date="1513965642018" expanded="true" signature="59:41040" ph="..." />
+            <marker date="1513965642018" expanded="true" signature="98:192" ph="..." />
+            <marker date="1513965642018" expanded="true" signature="40966:40983" ph="..." />
+            <marker date="1513965642018" expanded="true" signature="40966:41001" ph="..." />
+            <marker date="1513965642018" expanded="true" signature="40966:41014" ph="..." />
+            <marker date="1513965642018" expanded="true" signature="40966:41029" ph="..." />
           </folding>
         </state>
       </provider>
@@ -731,8 +731,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
