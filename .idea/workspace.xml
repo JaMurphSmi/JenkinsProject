@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5efbfc98-2581-481b-89de-35bab14f671f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/StudentTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/studentproject/Student.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/studentproject/StudentTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,6 +22,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -35,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Student.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -120,23 +127,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1513902426630" expanded="true" signature="59:41645" ph="..." />
-                <marker date="1513902426630" expanded="true" signature="98:192" ph="..." />
-                <marker date="1513902426630" expanded="true" signature="41571:41588" ph="..." />
-                <marker date="1513902426630" expanded="true" signature="41571:41606" ph="..." />
-                <marker date="1513902426630" expanded="true" signature="41571:41619" ph="..." />
-                <marker date="1513902426630" expanded="true" signature="41571:41634" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -160,7 +150,6 @@
         <option value="$PROJECT_DIR$/src/main/java/org/studentproject/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/studentproject/AppTest.java" />
         <option value="$PROJECT_DIR$/JenkinsFile" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Jenkinsfile" />
         <option value="$PROJECT_DIR$/pipeline.iml" />
         <option value="$PROJECT_DIR$/.idea/compiler.xml" />
@@ -173,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/test/java/StudentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/studentproject/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/Student.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -625,25 +615,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="25" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1513902426630" expanded="true" signature="59:41645" ph="..." />
-            <marker date="1513902426630" expanded="true" signature="98:192" ph="..." />
-            <marker date="1513902426630" expanded="true" signature="41571:41588" ph="..." />
-            <marker date="1513902426630" expanded="true" signature="41571:41606" ph="..." />
-            <marker date="1513902426630" expanded="true" signature="41571:41619" ph="..." />
-            <marker date="1513902426630" expanded="true" signature="41571:41634" ph="..." />
+            <marker date="1513904807270" expanded="true" signature="59:40704" ph="..." />
+            <marker date="1513904807270" expanded="true" signature="98:192" ph="..." />
+            <marker date="1513904807270" expanded="true" signature="40630:40647" ph="..." />
+            <marker date="1513904807270" expanded="true" signature="40630:40665" ph="..." />
+            <marker date="1513904807270" expanded="true" signature="40630:40678" ph="..." />
+            <marker date="1513904807270" expanded="true" signature="40630:40693" ph="..." />
           </folding>
         </state>
       </provider>
@@ -737,6 +719,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
