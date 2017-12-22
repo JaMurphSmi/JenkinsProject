@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5efbfc98-2581-481b-89de-35bab14f671f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="5efbfc98-2581-481b-89de-35bab14f671f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -620,12 +618,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1513946342258" expanded="true" signature="59:40712" ph="..." />
-            <marker date="1513946342258" expanded="true" signature="98:192" ph="..." />
-            <marker date="1513946342258" expanded="true" signature="40638:40655" ph="..." />
-            <marker date="1513946342258" expanded="true" signature="40638:40673" ph="..." />
-            <marker date="1513946342258" expanded="true" signature="40638:40686" ph="..." />
-            <marker date="1513946342258" expanded="true" signature="40638:40701" ph="..." />
+            <marker date="1513946344390" expanded="true" signature="59:40712" ph="..." />
+            <marker date="1513946344390" expanded="true" signature="98:192" ph="..." />
+            <marker date="1513946344390" expanded="true" signature="40638:40655" ph="..." />
+            <marker date="1513946344390" expanded="true" signature="40638:40673" ph="..." />
+            <marker date="1513946344390" expanded="true" signature="40638:40686" ph="..." />
+            <marker date="1513946344390" expanded="true" signature="40638:40701" ph="..." />
           </folding>
         </state>
       </provider>
